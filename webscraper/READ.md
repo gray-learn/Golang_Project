@@ -40,10 +40,8 @@ This project is a Go-based web scraper that extracts detailed recipe information
 
     ```bash
     git clone https://github.com/gray-learn/Golang_Project.git
-    cd recipe-scraper    
+    cd webscraper    
     ```
-
-    Replace `https://github.com/gray-learn/Golang_Project.git` with the actual repository URL.
 
 4. **Initialize the Go Module**: Set up a new Go module for your project (if not already done):
 
